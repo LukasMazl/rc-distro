@@ -1,0 +1,6 @@
+[submodule "rc-distro-yocto"]
+	path = rc-distro-yocto
+	url = https://github.com/LukasMazl/rc-distro-yocto
+[submodule "rc-distro-app-layer"]
+	path = rc-distro-app-layer
+	url = https://github.com/LukasMazl/rc-distro-app-layer.git
